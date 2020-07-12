@@ -5,6 +5,12 @@ A new Flutter application.
 
 此demo是在别人基础上修改的，最后2个模块是自己写的。如果有侵犯著作权，请联系下。谢谢
 
+最后2个模块使用到了mpchart，一个是柱状图，一个是折线图。
+
+
+
+（集成的时候可能报错，原因1 注意gradle flutter kotlin版本，原因2 注意yaml文件中的引用版本）
+
 
 ## Getting Started
 
