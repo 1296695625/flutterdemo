@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+
+此demo是在别人基础上修改的，最后2个模块是自己写的。如果有侵犯著作权，请联系下。谢谢
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
