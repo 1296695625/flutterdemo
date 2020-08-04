@@ -12,7 +12,7 @@ class GlobleManager {
   static final String URL_DEV_1 =
       "https://easy-mock.com/mock/5b07682d374bec38a648c39b/example";
   static final String URL_BUILD_4 = "http://192.168.68.198:9763";
-  static final int DEV_DEBUG_MOD = 1; //0宣武门测试服务器1开发模式2北京局 3总部 4.本地测试
+  static final int DEV_DEBUG_MOD = 1; //0xwm测试服务器1开发模式2北京局 3总部 4.本地测试
 
   static final String APPTYPE = "01";
 
